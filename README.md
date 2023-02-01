@@ -107,7 +107,7 @@ Now to save our container data to the AWS ECR. First we will create a repository
 
 
 ```
-aws ecr create-repository --repository-name docker-project --region us-east-1
+aws ecr create-repository --repository-name everything-docker --region us-east-1
 ```
 
 
